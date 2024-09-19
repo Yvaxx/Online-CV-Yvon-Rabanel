@@ -1,12 +1,14 @@
-body{
-  background-image: url('images/Toits paris.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-}
 img{
   border-radius: 100px 100px 100px 100px;
   border: solid 10px #EBACA2;
 }
 
+body{
+  background-image: url('images/Toits paris.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.5;
+}
+  
+  
