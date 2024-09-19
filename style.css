@@ -1,5 +1,9 @@
 body{
-  background-color: #ec5800;
+  background-image: url('images/Toits paris');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
 }
 img{
   border-radius: 100px 100px 100px 100px;
