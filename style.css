@@ -4,9 +4,10 @@ img{
 }
 
 body{
-  background-image: url('images/Papier froissé texture.jpg');
+  background-image: url('images/Toits paris.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-color:(0,0,0,0.6);
 }
   
