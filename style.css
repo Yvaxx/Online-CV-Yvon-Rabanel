@@ -6,7 +6,7 @@ img{
 body{
 }
 
-.background-wrapper::before{
+.background-wrapper{
   background-image: url('images/Toits paris.jpg');
   background-size: cover;
   background-position: center;
