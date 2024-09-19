@@ -7,5 +7,6 @@ body{
 }
 img{
   border-radius: 100px 100px 100px 100px;
+  border: solid 10px #EBACA2;
 }
 
