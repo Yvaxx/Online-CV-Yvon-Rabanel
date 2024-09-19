@@ -1,4 +1,7 @@
+body{
+  background-color: lightblue;
+}
 img{
-  border-radius 100px 100px 100px 100px;
+  border-radius: 100px 100px 100px 100px;
 }
 
