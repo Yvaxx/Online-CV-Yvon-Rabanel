@@ -4,14 +4,9 @@ img{
 }
 
 body{
-}
-
-.background-wrapper{
-  height:100vh;
-  background-image: url('images/Toits paris.jpg');
+  background-image: url('images/Papier froissé texture.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  opacity: 0.5;
 }
   
